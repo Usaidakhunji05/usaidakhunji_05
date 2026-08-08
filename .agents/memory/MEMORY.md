@@ -1,0 +1,2 @@
+- [Babel generator symlink](babel-generator-symlink.md) — react-native-worklets babel plugin fails with "Cannot find module @babel/generator" after @babel/core upgrade; fix: symlink it into root node_modules.
+- [Profit calculation fix](profit-calc-fix.md) — Net profit must use sales.costPrice (COGS per sale), never total purchases; costPrice is snapshotted from products at sale time.
